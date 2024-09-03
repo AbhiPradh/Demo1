@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="WXF106897_Alarms1 Log.xml" projectName="C:\Users\INEabp\OneDrive - ONEVIRTUALOFFICE\Desktop\Temp\WXF106897_Alarms1.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Information" dateTime="10:38:39 AM">
+    <Message>Import finished: 873 discrete alarms; 0 analog alarms</Message>
+  </LogEntry>
+</LogFile>

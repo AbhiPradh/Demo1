@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="AlarmsR3 Log.xml" projectName="C:\Users\INEabp\Downloads\AlarmsR3.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Information" dateTime="2:42:30 PM">
+    <Message>Import finished: 720 discrete alarms; 0 analog alarms</Message>
+  </LogEntry>
+</LogFile>

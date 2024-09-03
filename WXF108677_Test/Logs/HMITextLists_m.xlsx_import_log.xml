@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMITextLists_m.xlsx_import_log.xml" projectName="C:\Users\INEabp\OneDrive - ONEVIRTUALOFFICE\Desktop\Temp\HMITextLists_m.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Information" dateTime="1:20:53 PM">
+    <Message>Import completed: 49 text lists with 1078 entries.</Message>
+  </LogEntry>
+</LogFile>
